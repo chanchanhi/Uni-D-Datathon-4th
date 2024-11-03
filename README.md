@@ -6,4 +6,4 @@
 ## Inference
 ### 먼저 test.ipynb 에서 실행하면 test이미지에 대한 path와 label을 Map 형식으로 받아서 json파일로 저장 가능하고 이파일을 minjun branch에서 test할때 사용한다.
 
-## 모델 환경 RTX 3090 24GB 
+## 모델 환경 RTX 3090 24GB
