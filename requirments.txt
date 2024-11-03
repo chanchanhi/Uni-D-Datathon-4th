@@ -1,0 +1,5 @@
+torch==2.0.1           # or any stable version compatible with your environment
+torchvision==0.15.2    # compatible with the PyTorch version
+tqdm==4.64.1           # for progress bar
+Pillow==9.4.0          # for image handling
+opencv-python==4.6.0.66  # for using cv2 if needed
